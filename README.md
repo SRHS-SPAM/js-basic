@@ -2,6 +2,8 @@
 
 자바스크립트 강의 소스코드 모음
 
+# 기본 문법
+
 1. 변수, 자료형
     - var.js
 2. alert, prompt, confirm
@@ -30,3 +32,12 @@
     - arrow_func.js
 12. 객체
     - object.js
+
+# es6 문법
+
+1. 생성자 함수
+
+    - init_func.js
+
+2. 수학 관련 함수들
+    - math.js
