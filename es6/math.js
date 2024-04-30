@@ -52,6 +52,13 @@ Math.min(1, 2, 4, 5, -1, 3);
 Math.abs(-1);
 // 절대값을 반환해준다.
 
+Math.pow(2, 3);
+// 2의 3승을 반환해준다.
+// 제곱해주는 함수
+
+Math.sqrt(16);
+// 제곱근을 반환해준다.s
+
 console.log(num);
 console.log(num1);
 console.log(num2);
