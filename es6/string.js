@@ -29,6 +29,7 @@ if (desc.indexOf("오늘") > -1) {
 if (desc.includes("오늘")) {
     console.log("오늘이 있어요");
 }
+// includes 쓰면 그냥 있나 없나 체크만 해줌
 
 let dec = "abcdefg";
 
