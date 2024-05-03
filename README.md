@@ -32,16 +32,22 @@
     - arrow_func.js
 12. 객체
     - object.js
-13. 배열
+13. 객체 - 메소드, this
+    - object_method.js
+14. 배열
     - array.js
 
 # es6 문법
 
 1. 생성자 함수
     - init_func.js
-2. 수학 관련 메소드들
+2. 객체 매소드
+    - object_method.js
+3. 심볼
+    - symbol.js
+4. 수학 관련 메소드들
     - math.js
-3. 문자열 관련 메소드들
+5. 문자열 관련 메소드들
     - string.js
-4. 배열 관련 메소드들
+6. 배열 관련 메소드들
     - array.js
