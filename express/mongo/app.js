@@ -32,7 +32,6 @@ const Item = mongoose.model("Item", itemSchema);
 // Create an item
 app.post("/items", async (req, res) => {
     const item = new Item(req.body);
-    newItem.id = itemt.length ? items[items.length - 1].id + 1 : 1;
     await item.save();
     res.status(201).send(item);
 });
