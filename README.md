@@ -51,3 +51,17 @@
     - string.js
 6. 배열 관련 메소드들
     - array.js
+
+# Mongo, Express 설치법
+
+```shell
+npm init
+```
+
+```shell
+npm install express dotenv mongoose
+```
+
+```shell
+nodemon app.js
+```
