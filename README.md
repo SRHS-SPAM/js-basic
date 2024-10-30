@@ -70,6 +70,8 @@
     - prototype.js
 14. Class
     - class.js
+15. Promise
+    - promise.js
 # Mongo, Express 설치법
 
 ```shell
