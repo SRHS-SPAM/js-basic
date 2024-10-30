@@ -57,6 +57,8 @@
    - restParameter.js
 9. 전개구문
    - spread-syntax.js
+10. 클로저
+    - closure.js
 # Mongo, Express 설치법
 
 ```shell
