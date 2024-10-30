@@ -68,6 +68,8 @@
     - apply.js
 13. 상속, prototype
     - prototype.js
+14. Class
+    - class.js
 # Mongo, Express 설치법
 
 ```shell
