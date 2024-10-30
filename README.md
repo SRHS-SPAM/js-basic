@@ -55,6 +55,8 @@
     - desturcturing.js
 8. 나머지 매개변수
    - restParameter.js
+9. 전개구문
+   - spread-syntax.js
 # Mongo, Express 설치법
 
 ```shell
