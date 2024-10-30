@@ -72,6 +72,8 @@
     - class.js
 15. Promise
     - promise.js
+16. async await
+    - async-await.js
 # Mongo, Express 설치법
 
 ```shell
