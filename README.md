@@ -59,6 +59,13 @@
    - spread-syntax.js
 10. 클로저
     - closure.js
+11. setTimeout, setInterval
+    - setTimeout.js
+    - setInterval.js
+12. call, apply, bind
+    - call.js
+    - bind.js
+    - apply.js
 # Mongo, Express 설치법
 
 ```shell
