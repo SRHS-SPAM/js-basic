@@ -66,6 +66,8 @@
     - call.js
     - bind.js
     - apply.js
+13. 상속, prototype
+    - prototype.js
 # Mongo, Express 설치법
 
 ```shell
